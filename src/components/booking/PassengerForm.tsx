@@ -120,7 +120,7 @@ export default function PassengerForm({
             value={value.specialAssistance ?? ""}
             onChange={handleChange}
             className="input-field"
-            placeholder="e.g. Wheelchair"
+            placeholder="e.g. Wheelchair etc"
           />
         </div>
       </div>
